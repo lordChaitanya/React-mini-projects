@@ -18,5 +18,5 @@ It features real-time conversions, a dark-grey professional UI, and a swap funct
 ---
 
 ## 🖼️ Preview
-![App Screenshot](./public/backgroundimg.jpg)
+![App Screenshot](./public/ssc.png)
 
